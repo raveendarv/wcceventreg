@@ -11,5 +11,5 @@ YOUTH SUMMIT 2K19
 
 # Created by:
 Raveendar V, 
-Nithya K, 
-Kaviya K
+Nithya K
+
